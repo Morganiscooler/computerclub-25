@@ -77,7 +77,7 @@ body {
   top: -500px;
   position: absolute;
   left: 0;
-  /* animation: slideDown 1s ease forwards; */
+  animation: slideDown 1s ease forwards;
 
 }
 .gradient-bg svg {
@@ -90,7 +90,7 @@ body {
 }
 
 
-/* @keyframes slideDown {
+@keyframes slideDown {
 
   from{
     transform: translateY(0px);
@@ -99,7 +99,7 @@ body {
     transform: translateY(500px);
   }
   
-} */
+}
 
 
 
